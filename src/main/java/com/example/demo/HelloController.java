@@ -15,6 +15,6 @@ public class HelloController {
 
 	@GetMapping("/hello")
 	public String hello() {
-		return "hello5678687685678kkkkkkkkkkkkkkkkkkkkkkkkk哈哈哈哈哈哈";
+		return "helloCompare";
 	}
 }
